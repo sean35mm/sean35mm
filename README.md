@@ -9,7 +9,7 @@
  
  🔍 Passionate with problem solving and learning new technologies   
  
- ⚡ Fun fact: I won a laughable award for being the fastest typer in middle school  
+ ⚡ Fun fact: I won a joke award for being the fastest typer in middle school  
  
  👨‍👩‍👧‍👦 Living in Southern California with my lovely wife♥️, Charcoal 🐈‍⬛, and Chai 🐈
 
