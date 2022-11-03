@@ -1,7 +1,7 @@
-### <div align="center">I'm Sean, Software Engineer 👨‍💻 - US Army veteran 🫡</div>  
+### <div align="center">I'm Sean, Software Engineer 👨‍💻 - US Army Veteran 🫡</div>  
   
 
- 🔭 Formerly Givinga Inc.
+ 🔭 Formerly Givinga Inc (Full Stack Engineer) & Vcheck Global LLC (SVP)
  
  💻 Currently developing Child Appetite LLC and consulting for TechnicaRaceWire
  
