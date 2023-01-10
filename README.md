@@ -3,13 +3,13 @@
 
  🔭 Formerly Givinga Inc (Full Stack Engineer) & Vcheck Global LLC (SVP)
  
- 💻 Currently developing Child Appetite LLC and consulting for TechnicaRaceWire
+ 💻 Currently full time at ActiveProspect and part time teaching web development at BrainStation
  
- 🌱 Recently diving deeper into System Design and complex TypeScript
+ 🌱 Recently diving deeper into TypeScript and WebFlow (for freelance tooling)
  
  🔍 Passionate with problem solving and learning new technologies   
  
- ⚡ Fun fact: I won a joke award for being the fastest typer in middle school  
+ ⚡ Random fact: I like keyboards and am actively trying to increase my WPM haha
  
  👨‍👩‍👧‍👦 Living in Southern California with my lovely wife♥️, Charcoal 🐈‍⬛, and Chai 🐈
 
