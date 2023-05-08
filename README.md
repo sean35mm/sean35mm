@@ -3,7 +3,7 @@
 
  🔭 Most recently at ActiveProspect (Software Engineer) and Former Startup Executive (Vcheck Global LLC)
  
- 💻 Currently full time at ActiveProspect and part time teaching web development at BrainStation
+ 💻 Actively looking for full time SWE roles and mentoring students at BrainStation
  
  🌱 Recently diving deeper into TypeScript and WebFlow (for freelance tooling)
  
