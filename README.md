@@ -1,7 +1,7 @@
 ### <div align="center">I'm Sean, Software Engineer 👨‍💻 - US Army Veteran 🫡</div>  
   
 
- 🔭 Formerly Givinga Inc (Full Stack Engineer) & Vcheck Global LLC (SVP)
+ 🔭 Most recently at ActiveProspect (Software Engineer) and Former Startup Executive (Vcheck Global LLC)
  
  💻 Currently full time at ActiveProspect and part time teaching web development at BrainStation
  
