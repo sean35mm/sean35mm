@@ -9,7 +9,7 @@
  
  🔍 Passionate with problem solving and learning new technologies   
  
- ⚡ Random fact: I like keyboards and am actively trying to increase my WPM haha
+ ⚡ Random fact: I like to cook and post videos about it on TikTok haha
  
  👨‍👩‍👧‍👦 Living in Southern California with my lovely wife♥️, Charcoal 🐈‍⬛, and Chai 🐈
 
