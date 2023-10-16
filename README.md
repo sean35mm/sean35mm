@@ -1,11 +1,11 @@
-### <div align="center">I'm Sean, Software Engineer 👨‍💻 - US Army Veteran 🫡</div>  
+### <div align="center">I'm Sean, Software Engineer 👨‍💻 - US Army Veteran </div>  
   
 
- 🔭 Most recently at ActiveProspect (Software Engineer) and Former Startup Executive (Vcheck Global LLC)
+ 🔭 Currently helping government customers at Next Phase Solutions (Software Engineer)
  
- 💻 Actively looking for full time SWE roles and mentoring students at BrainStation
+ 💻 Actively mentoring students at BrainStation and Streetwise Partners
  
- 🌱 Recently diving deeper into TypeScript and WebFlow (for freelance tooling)
+ 🌱 Recently diving deeper into TypeScript and Golang
  
  🔍 Passionate with problem solving and learning new technologies   
  
