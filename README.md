@@ -11,7 +11,7 @@
  
  ⚡ Random fact: I like to cook and post videos about it on TikTok haha
  
- 👨‍👩‍👧‍👦 Living in Southern California with my lovely wife♥️, Charcoal 🐈‍⬛, and Chai 🐈
+ 👨‍👩‍👧‍👦 Living in Austin, TX with my lovely wife♥️, Charcoal 🐈‍⬛, and Chai 🐈
 
 
 #### Connect with me  
