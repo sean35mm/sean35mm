@@ -1,7 +1,7 @@
 ### <div align="center">I'm Sean, Software Engineer 👨‍💻 - US Army Veteran </div>  
   
 
- 🔭 Currently helping government customers at Next Phase Solutions (Software Engineer)
+ 🔭 Currently enriching data with AI at Perigon as a Software Engineer
  
  💻 Actively mentoring students at BrainStation, Veterati, and Streetwise Partners
  
