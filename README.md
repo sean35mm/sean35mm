@@ -3,7 +3,7 @@
 
  🔭 Currently helping government customers at Next Phase Solutions (Software Engineer)
  
- 💻 Actively mentoring students at BrainStation and Streetwise Partners
+ 💻 Actively mentoring students at BrainStation, Veterati, and Streetwise Partners
  
  🌱 Recently diving deeper into TypeScript and Golang
  
